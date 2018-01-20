@@ -1,0 +1,2 @@
+Jeœli tekstury siê nie za³aduj¹ na przegl¹darce Google Chrome to proszê zmieniæ na inn¹ 
+przegl¹darkê np. Internet Explorer lub firefox. Jest tak poniewa¿ Chrom lokalnie blokuje pliki, dzia³a normalnie na serwerach nawet na chromie
